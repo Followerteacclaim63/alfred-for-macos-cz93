@@ -1,4 +1,4 @@
-#  
+#  Enhance Alfred for macOS with Alfred for macOS ultimate Script: custom themes & version history, the #1 script. Includes custom themes and version history for a smoother
 
 
 
